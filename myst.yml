@@ -1,0 +1,46 @@
+version: 1
+
+project:
+  id: f42a2a54-1167-4d59-8818-02993f79b9d9
+  title: "Kayla Nicole Jade T. Abris"
+  description: "A social science time series analysis of historical fertility patterns in the Philippines."
+  keywords:
+    - Data Science
+    - Time Series Analysis
+    - Social Science
+    - Fertility
+    - Philippines
+  authors:
+    - name: "Kayla Nicole Jade T. Abris"
+
+  toc:
+    - file: index.md
+
+    - title: "DS Activities"
+      children:
+        - file: "G2-Social-Science-Time-Series.ipynb"
+          title: "G2 Social Science Time Series"
+        - file: "Technical_Report.ipynb"
+          title: "Technical Report"
+
+    - title: "Laboratories"
+      children:
+        - file: "Laboratory Task 1.ipynb"
+          title: "Laboratory Task 1"
+        - file: "Lecture Task 1.ipynb"
+          title: "Lecture Task 1"
+        - file: "Laboratory Task 2.ipynb"
+          title: "Laboratory Task 2"
+        - file: "Laboratory Task 3.ipynb"
+          title: "Laboratory Task 3"
+        - file: "Laboratory Task 4.ipynb"
+          title: "Laboratory Task 4"
+        - file: "Laboratory Task 5.ipynb"
+          title: "Laboratory Task 5"
+        - file: "Example Loading Custom Dataset.ipynb"
+          title: "Example Loading Custom Dataset"
+
+site:
+  template: book-theme
+  options:
+    logo: logo.png
