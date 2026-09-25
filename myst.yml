@@ -37,8 +37,8 @@ project:
           title: "Laboratory Task 4"
         - file: "Laboratory Task 5.ipynb"
           title: "Laboratory Task 5"
-        - file: "Example Loading Custom Dataset.ipynb"
-          title: "Example Loading Custom Dataset"
+        - file: "Laboratory Task 6.ipynb"
+          title: "Laboratory Task 6"
 
 site:
   template: book-theme
