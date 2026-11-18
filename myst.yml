@@ -23,6 +23,12 @@ project:
         - file: "Technical_Report.ipynb"
           title: "Technical Report"
 
+
+    - title: "Deep Learning"
+      children:
+        - file: "How Learning Rate Shapes the Training of a Small CNN.md"
+          title: "How Learning Rate Shapes the Training of a Small CNN"
+
     - title: "Laboratories"
       children:
         - file: "Laboratory Task 1.ipynb"
